@@ -1,0 +1,13 @@
+bin
+.suo
+obj
+.class
+将删除 .idea/compiler.xml
+将删除 .idea/libraries/
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/uiDesigner.xml
+将删除 .idea/workspace.xml
+将删除 src/main/java/com/taocoding/dockerui/conf/
+将删除 target/generated-sources/
+将删除 target/generated-test-sources/
